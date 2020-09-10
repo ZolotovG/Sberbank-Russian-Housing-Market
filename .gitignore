@@ -1,4 +1,4 @@
 *.zip
 catboost_info/*
-catboost_info/
-catboost_info*
+submission.csv
+.ipynb_checkpoints/*
