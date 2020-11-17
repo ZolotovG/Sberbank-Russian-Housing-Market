@@ -2,5 +2,4 @@
 catboost_info/*
 submission.csv
 .ipynb_checkpoints/*
-*test*
-*Test*
+Test*
